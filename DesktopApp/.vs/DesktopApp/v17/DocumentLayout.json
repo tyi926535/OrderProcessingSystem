@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nasty\\Desktop\\progect\\testing\\DesktopApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD196D4C-F0D9-4918-A7E5-1F9BADD6F5DA}|DesktopApp\\DesktopApp.csproj|C:\\Users\\nasty\\Desktop\\progect\\testing\\DesktopApp\\desktopapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD196D4C-F0D9-4918-A7E5-1F9BADD6F5DA}|DesktopApp\\DesktopApp.csproj|solutionrelative:desktopapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD196D4C-F0D9-4918-A7E5-1F9BADD6F5DA}|DesktopApp\\DesktopApp.csproj|c:\\users\\nasty\\desktop\\progect\\testing\\desktopapp\\desktopapp\\forms\\mainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD196D4C-F0D9-4918-A7E5-1F9BADD6F5DA}|DesktopApp\\DesktopApp.csproj|solutionrelative:desktopapp\\forms\\mainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD196D4C-F0D9-4918-A7E5-1F9BADD6F5DA}|DesktopApp\\DesktopApp.csproj|c:\\users\\nasty\\desktop\\progect\\testing\\desktopapp\\desktopapp\\forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AD196D4C-F0D9-4918-A7E5-1F9BADD6F5DA}|DesktopApp\\DesktopApp.csproj|solutionrelative:desktopapp\\forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD196D4C-F0D9-4918-A7E5-1F9BADD6F5DA}|DesktopApp\\DesktopApp.csproj|c:\\users\\nasty\\desktop\\progect\\testing\\desktopapp\\desktopapp\\forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD196D4C-F0D9-4918-A7E5-1F9BADD6F5DA}|DesktopApp\\DesktopApp.csproj|solutionrelative:desktopapp\\forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD196D4C-F0D9-4918-A7E5-1F9BADD6F5DA}|DesktopApp\\DesktopApp.csproj|c:\\users\\nasty\\desktop\\progect\\testing\\desktopapp\\desktopapp\\forms\\mainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AD196D4C-F0D9-4918-A7E5-1F9BADD6F5DA}|DesktopApp\\DesktopApp.csproj|solutionrelative:desktopapp\\forms\\mainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\nasty\\Desktop\\progect\\testing\\DesktopApp\\DesktopApp\\Forms\\MainWindow.cs",
+              "RelativeDocumentMoniker": "DesktopApp\\Forms\\MainWindow.cs",
+              "ToolTip": "C:\\Users\\nasty\\Desktop\\progect\\testing\\DesktopApp\\DesktopApp\\Forms\\MainWindow.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "DesktopApp\\Forms\\MainWindow.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T13:38:27.081Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\nasty\\Desktop\\progect\\testing\\DesktopApp\\DesktopApp\\Forms\\Form1.cs",
+              "RelativeDocumentMoniker": "DesktopApp\\Forms\\Form1.cs",
+              "ToolTip": "C:\\Users\\nasty\\Desktop\\progect\\testing\\DesktopApp\\DesktopApp\\Forms\\Form1.cs",
+              "RelativeToolTip": "DesktopApp\\Forms\\Form1.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAnwDkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T13:28:18.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\nasty\\Desktop\\progect\\testing\\DesktopApp\\DesktopApp\\Forms\\Form1.cs",
+              "RelativeDocumentMoniker": "DesktopApp\\Forms\\Form1.cs",
+              "ToolTip": "C:\\Users\\nasty\\Desktop\\progect\\testing\\DesktopApp\\DesktopApp\\Forms\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "DesktopApp\\Forms\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T13:12:47.092Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.cs",
+              "DocumentMoniker": "C:\\Users\\nasty\\Desktop\\progect\\testing\\DesktopApp\\DesktopApp\\Forms\\MainWindow.cs",
+              "RelativeDocumentMoniker": "DesktopApp\\Forms\\MainWindow.cs",
+              "ToolTip": "C:\\Users\\nasty\\Desktop\\progect\\testing\\DesktopApp\\DesktopApp\\Forms\\MainWindow.cs",
+              "RelativeToolTip": "DesktopApp\\Forms\\MainWindow.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAYwEoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T10:14:48.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nasty\\Desktop\\progect\\testing\\DesktopApp\\DesktopApp\\Program.cs",
+              "RelativeDocumentMoniker": "DesktopApp\\Program.cs",
+              "ToolTip": "C:\\Users\\nasty\\Desktop\\progect\\testing\\DesktopApp\\DesktopApp\\Program.cs",
+              "RelativeToolTip": "DesktopApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T20:30:55.4Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
