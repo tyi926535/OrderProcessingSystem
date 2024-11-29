@@ -41,7 +41,7 @@ namespace DesktopApp.Forms
         private void button1_Click(object sender, EventArgs e) //Создание позиции заказа
         {
             int index= comboBox1.SelectedIndex;
-            if (index > 0)
+            if (index >= 0)
             {
                 sendingRequests.CreatingAnOrderItem(idList[index], orderID);
                 var addingProduct = new AddingProduct(orderID);
