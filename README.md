@@ -15,5 +15,5 @@
 
 docker load -i my-image2.tar
 
-docker run --name sqlServer2 -d my-image2:latest
+docker run -e "ACCEPT_EULA=Y" -e "MSSQL_SA_PASSWORD=ServerDB_MSSql" -p 1433:1433 --name sqlserver2 -d my-image2:latest
 
