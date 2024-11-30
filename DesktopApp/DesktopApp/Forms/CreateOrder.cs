@@ -52,6 +52,8 @@ namespace DesktopApp.Forms
 
         private void button3_Click(object sender, EventArgs e)//Закрытие формы
         {
+            var addingProduct = new AddingProduct(orderID);
+            addingProduct.Show();
             this.Dispose();
         }
     }

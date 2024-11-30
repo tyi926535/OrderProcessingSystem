@@ -1,3 +1,4 @@
+Create DataBase ServerDB;
 Use ServerDB;
 Create Table Users(
 	ID INT PRIMARY KEY IDENTITY,
