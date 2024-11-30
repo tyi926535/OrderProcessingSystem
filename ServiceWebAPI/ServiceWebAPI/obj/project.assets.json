@@ -2038,11 +2038,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nasty\\Desktop\\progect\\testing\\ServiceWebAPI\\ServiceWebAPI\\ServiceWebAPI.csproj",
+      "projectUniqueName": "C:\\Users\\nasty\\Documents\\GitHub\\OrderProcessingSystem\\ServiceWebAPI\\ServiceWebAPI\\ServiceWebAPI.csproj",
       "projectName": "ServiceWebAPI",
-      "projectPath": "C:\\Users\\nasty\\Desktop\\progect\\testing\\ServiceWebAPI\\ServiceWebAPI\\ServiceWebAPI.csproj",
+      "projectPath": "C:\\Users\\nasty\\Documents\\GitHub\\OrderProcessingSystem\\ServiceWebAPI\\ServiceWebAPI\\ServiceWebAPI.csproj",
       "packagesPath": "C:\\Users\\nasty\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nasty\\Desktop\\progect\\testing\\ServiceWebAPI\\ServiceWebAPI\\obj\\",
+      "outputPath": "C:\\Users\\nasty\\Documents\\GitHub\\OrderProcessingSystem\\ServiceWebAPI\\ServiceWebAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

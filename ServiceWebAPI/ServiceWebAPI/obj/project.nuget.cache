@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5u5Fk32YEuboL1/5S5A/OU8f/aKzUzrXPqYJNgjG9FRUCzA73QZYURbfQsWMET6Cu2meslvUgybVLqDgMd2wkw==",
+  "dgSpecHash": "knzmjTqfJDlVL1V/+2hLX+oBPJ5fl28eDqHAC9CJoOrooDAcJdSoTXUi71RpgdyENCiy46eDDDBMtb3WoBODLA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\nasty\\Desktop\\progect\\testing\\ServiceWebAPI\\ServiceWebAPI\\ServiceWebAPI.csproj",
+  "projectFilePath": "C:\\Users\\nasty\\Documents\\GitHub\\OrderProcessingSystem\\ServiceWebAPI\\ServiceWebAPI\\ServiceWebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nasty\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\nasty\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

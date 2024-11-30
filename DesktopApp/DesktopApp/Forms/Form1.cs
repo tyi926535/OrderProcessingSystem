@@ -37,23 +37,21 @@ namespace DesktopApp.Forms
 
         private void button1_Click(object sender, EventArgs e)
         {
-            if(textBox1!=null)
+            if(textBox1.Text!="")
             {
                 string loginText= textBox1.Text;
                 bool flag=sendingRequests.LoginCheck(loginText);
                 if(!flag) { label3.Visible=true; }
                 else
                 {
-                    textBox1.Text = null;
+                    textBox1.Text = "";
                     MainWindow mainWindow = new MainWindow();
                     Form1 form = new Form1(0);
                     mainWindow.Show();
-                    //mainWindow.ShowDialog();
-                    //this.Close();
-                    //Application.Exit();
-                    //ChangeVisible();
+                    
                 }
             }
+            else { label3.Visible=true; }
         }
         
     }

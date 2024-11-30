@@ -32,6 +32,7 @@
             this.textBox1 = new System.Windows.Forms.TextBox();
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
+            this.label1 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // button1
@@ -49,7 +50,7 @@
             this.button1.ForeColor = System.Drawing.Color.Black;
             this.button1.ImageAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.button1.ImageKey = "(отсутствует)";
-            this.button1.Location = new System.Drawing.Point(251, 260);
+            this.button1.Location = new System.Drawing.Point(251, 255);
             this.button1.MaximumSize = new System.Drawing.Size(122, 45);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(122, 45);
@@ -88,12 +89,25 @@
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Times New Roman", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
             this.label3.ForeColor = System.Drawing.Color.Red;
-            this.label3.Location = new System.Drawing.Point(206, 210);
+            this.label3.Location = new System.Drawing.Point(202, 204);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(207, 22);
             this.label3.TabIndex = 10;
             this.label3.Text = "Не верно набран логин";
             this.label3.Visible = false;
+            // 
+            // label1
+            // 
+            this.label1.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom)));
+            this.label1.AutoSize = true;
+            this.label1.Font = new System.Drawing.Font("Times New Roman", 13.8F, System.Drawing.FontStyle.Underline, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.label1.ForeColor = System.Drawing.Color.White;
+            this.label1.Location = new System.Drawing.Point(140, 331);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(330, 26);
+            this.label1.TabIndex = 11;
+            this.label1.Text = "Вход в качестве администратора";
+            this.label1.Visible = false;
             // 
             // Form1
             // 
@@ -101,6 +115,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(38)))), ((int)(((byte)(38)))), ((int)(((byte)(58)))));
             this.ClientSize = new System.Drawing.Size(637, 453);
+            this.Controls.Add(this.label1);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.textBox1);
@@ -122,6 +137,7 @@
         private System.Windows.Forms.TextBox textBox1;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.Label label1;
     }
 }
 
