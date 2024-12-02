@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\nasty\\Documents\\GitHub\\OrderProcessingSystem\\DesktopApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AD196D4C-F0D9-4918-A7E5-1F9BADD6F5DA}|DesktopApp\\DesktopApp.csproj|C:\\Users\\nasty\\Documents\\GitHub\\OrderProcessingSystem\\DesktopApp\\desktopapp\\forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{AD196D4C-F0D9-4918-A7E5-1F9BADD6F5DA}|DesktopApp\\DesktopApp.csproj|solutionrelative:desktopapp\\forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AD196D4C-F0D9-4918-A7E5-1F9BADD6F5DA}|DesktopApp\\DesktopApp.csproj|c:\\users\\nasty\\documents\\github\\orderprocessingsystem\\desktopapp\\desktopapp\\forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AD196D4C-F0D9-4918-A7E5-1F9BADD6F5DA}|DesktopApp\\DesktopApp.csproj|solutionrelative:desktopapp\\forms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AD196D4C-F0D9-4918-A7E5-1F9BADD6F5DA}|DesktopApp\\DesktopApp.csproj|c:\\users\\nasty\\documents\\github\\orderprocessingsystem\\desktopapp\\desktopapp\\forms\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AD196D4C-F0D9-4918-A7E5-1F9BADD6F5DA}|DesktopApp\\DesktopApp.csproj|solutionrelative:desktopapp\\forms\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AD196D4C-F0D9-4918-A7E5-1F9BADD6F5DA}|DesktopApp\\DesktopApp.csproj|c:\\users\\nasty\\documents\\github\\orderprocessingsystem\\desktopapp\\desktopapp\\sendingrequests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD196D4C-F0D9-4918-A7E5-1F9BADD6F5DA}|DesktopApp\\DesktopApp.csproj|solutionrelative:desktopapp\\sendingrequests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,41 +22,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\nasty\\Documents\\GitHub\\OrderProcessingSystem\\DesktopApp\\DesktopApp\\Forms\\Form1.Designer.cs",
-              "RelativeDocumentMoniker": "DesktopApp\\Forms\\Form1.Designer.cs",
-              "ToolTip": "C:\\Users\\nasty\\Documents\\GitHub\\OrderProcessingSystem\\DesktopApp\\DesktopApp\\Forms\\Form1.Designer.cs",
-              "RelativeToolTip": "DesktopApp\\Forms\\Form1.Designer.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAIAxwA4AAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T07:53:13.119Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\nasty\\Documents\\GitHub\\OrderProcessingSystem\\DesktopApp\\DesktopApp\\Forms\\Form1.cs",
-              "RelativeDocumentMoniker": "DesktopApp\\Forms\\Form1.cs",
-              "ToolTip": "C:\\Users\\nasty\\Documents\\GitHub\\OrderProcessingSystem\\DesktopApp\\DesktopApp\\Forms\\Form1.cs",
-              "RelativeToolTip": "DesktopApp\\Forms\\Form1.cs",
-              "ViewState": "AQIAACEAAAAAAAAAAAAvwDQAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-30T07:51:47.086Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "DocumentMoniker": "C:\\Users\\nasty\\Documents\\GitHub\\OrderProcessingSystem\\DesktopApp\\DesktopApp\\Forms\\Form1.cs",
-              "RelativeDocumentMoniker": "DesktopApp\\Forms\\Form1.cs",
-              "ToolTip": "C:\\Users\\nasty\\Documents\\GitHub\\OrderProcessingSystem\\DesktopApp\\DesktopApp\\Forms\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "RelativeToolTip": "DesktopApp\\Forms\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Title": "SendingRequests.cs",
+              "DocumentMoniker": "C:\\Users\\nasty\\Documents\\GitHub\\OrderProcessingSystem\\DesktopApp\\DesktopApp\\SendingRequests.cs",
+              "RelativeDocumentMoniker": "DesktopApp\\SendingRequests.cs",
+              "ToolTip": "C:\\Users\\nasty\\Documents\\GitHub\\OrderProcessingSystem\\DesktopApp\\DesktopApp\\SendingRequests.cs",
+              "RelativeToolTip": "DesktopApp\\SendingRequests.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAABaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T13:12:47.092Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+              "WhenOpened": "2024-12-02T21:53:54.667Z",
+              "EditorCaption": ""
             }
           ]
         }

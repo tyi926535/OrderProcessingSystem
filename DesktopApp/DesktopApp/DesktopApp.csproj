@@ -77,11 +77,17 @@
     <Compile Include="Forms\AddingProduct.Designer.cs">
       <DependentUpon>AddingProduct.cs</DependentUpon>
     </Compile>
-    <Compile Include="Forms\AddWindow.cs">
+    <Compile Include="Forms\AddProductUser.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Forms\AddWindow.Designer.cs">
-      <DependentUpon>AddWindow.cs</DependentUpon>
+    <Compile Include="Forms\AddProductUser.Designer.cs">
+      <DependentUpon>AddProductUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\AdminWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\AdminWindow.Designer.cs">
+      <DependentUpon>AdminWindow.cs</DependentUpon>
     </Compile>
     <Compile Include="Forms\CreateOrder.cs">
       <SubType>Form</SubType>
@@ -112,8 +118,11 @@
     <EmbeddedResource Include="Forms\AddingProduct.resx">
       <DependentUpon>AddingProduct.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Forms\AddWindow.resx">
-      <DependentUpon>AddWindow.cs</DependentUpon>
+    <EmbeddedResource Include="Forms\AddProductUser.resx">
+      <DependentUpon>AddProductUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\AdminWindow.resx">
+      <DependentUpon>AdminWindow.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Forms\CreateOrder.resx">
       <DependentUpon>CreateOrder.cs</DependentUpon>
@@ -149,6 +158,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\eye.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\key.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

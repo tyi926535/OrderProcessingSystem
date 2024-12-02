@@ -35,6 +35,9 @@ INSERT INTO Products (ProductName,Price,ProductQuantity) Values('Hat',450,7);
 INSERT INTO Products (ProductName,Price,ProductQuantity) Values('Pen',30,20);
 INSERT INTO Products (ProductName,Price,ProductQuantity) Values('Pencil',25,25);
 INSERT INTO Products (ProductName,Price,ProductQuantity) Values('Shorts',490,7);
+SET IDENTITY_INSERT Users ON
+INSERT INTO Users (ID,UserName,UserLogin) Values(0,'admin','admin');
+SET IDENTITY_INSERT Users OFF
 INSERT INTO Users (UserName,UserLogin) Values('user','user');
 INSERT INTO Users (UserName,UserLogin) Values('Athens','Greece');
 INSERT INTO Users (UserName,UserLogin) Values('Berlin','Germany');

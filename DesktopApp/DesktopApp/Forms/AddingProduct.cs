@@ -74,7 +74,6 @@ namespace DesktopApp.Forms
         
         private void createOrder_Click(object sender, EventArgs e) //Открывает окно  для добавления товара 
         {
-
             var createOrder = new CreateOrder(orderID);
             createOrder.Show();
             orderID = 0;
@@ -141,8 +140,6 @@ namespace DesktopApp.Forms
 
 
         }
-
-        
 
         private void AddingProduct_FormClosing(object sender, FormClosingEventArgs e) //Закрытие приложения
         {

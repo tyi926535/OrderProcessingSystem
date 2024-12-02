@@ -19,7 +19,6 @@ namespace DesktopApp.Forms
         {
             CreateOrder.orderID = orderID;
             InitializeComponent();
-
         }
         private void CreateOrder_Load(object sender, EventArgs e)
         {
@@ -33,10 +32,7 @@ namespace DesktopApp.Forms
             string[] nameArray=new string[nameList.Count];
             nameList.CopyTo(nameArray);
             comboBox1.Items.AddRange(nameArray);
-            
-
         }
-
 
         private void button1_Click(object sender, EventArgs e) //Создание позиции заказа
         {
@@ -49,7 +45,6 @@ namespace DesktopApp.Forms
                 this.Dispose();
             }
         }
-
         private void button3_Click(object sender, EventArgs e)//Закрытие формы
         {
             var addingProduct = new AddingProduct(orderID);

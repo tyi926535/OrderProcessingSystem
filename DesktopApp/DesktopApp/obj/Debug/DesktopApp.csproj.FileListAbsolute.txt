@@ -52,7 +52,6 @@ C:\Users\nasty\Documents\GitHub\OrderProcessingSystem\DesktopApp\DesktopApp\bin\
 C:\Users\nasty\Documents\GitHub\OrderProcessingSystem\DesktopApp\DesktopApp\bin\Debug\System.Threading.Tasks.Extensions.xml
 C:\Users\nasty\Documents\GitHub\OrderProcessingSystem\DesktopApp\DesktopApp\obj\Debug\DesktopApp.csproj.AssemblyReference.cache
 C:\Users\nasty\Documents\GitHub\OrderProcessingSystem\DesktopApp\DesktopApp\obj\Debug\DesktopApp.Forms.AddingProduct.resources
-C:\Users\nasty\Documents\GitHub\OrderProcessingSystem\DesktopApp\DesktopApp\obj\Debug\DesktopApp.Forms.AddWindow.resources
 C:\Users\nasty\Documents\GitHub\OrderProcessingSystem\DesktopApp\DesktopApp\obj\Debug\DesktopApp.Forms.CreateOrder.resources
 C:\Users\nasty\Documents\GitHub\OrderProcessingSystem\DesktopApp\DesktopApp\obj\Debug\DesktopApp.Forms.Form1.resources
 C:\Users\nasty\Documents\GitHub\OrderProcessingSystem\DesktopApp\DesktopApp\obj\Debug\DesktopApp.Forms.MainWindow.resources
@@ -62,3 +61,5 @@ C:\Users\nasty\Documents\GitHub\OrderProcessingSystem\DesktopApp\DesktopApp\obj\
 C:\Users\nasty\Documents\GitHub\OrderProcessingSystem\DesktopApp\DesktopApp\obj\Debug\DesktopApp.csproj.Up2Date
 C:\Users\nasty\Documents\GitHub\OrderProcessingSystem\DesktopApp\DesktopApp\obj\Debug\DesktopApp.exe
 C:\Users\nasty\Documents\GitHub\OrderProcessingSystem\DesktopApp\DesktopApp\obj\Debug\DesktopApp.pdb
+C:\Users\nasty\Documents\GitHub\OrderProcessingSystem\DesktopApp\DesktopApp\obj\Debug\DesktopApp.Forms.AdminWindow.resources
+C:\Users\nasty\Documents\GitHub\OrderProcessingSystem\DesktopApp\DesktopApp\obj\Debug\DesktopApp.Forms.AddProductUser.resources
